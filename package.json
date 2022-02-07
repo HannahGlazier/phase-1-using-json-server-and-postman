@@ -1,3 +1,4 @@
+
 {
   "name": "using-json-server",
   "version": "1.0.0",
@@ -10,5 +11,21 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    }
+  ]
 }
+
+
+
+
